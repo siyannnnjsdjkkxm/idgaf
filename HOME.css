@@ -1,0 +1,27 @@
+body{
+ background-image: url(home.png);
+ background-attachment:scroll;
+ background-size:  2000px;
+ margin:0,1,1;
+ height: 1000px;
+ padding: 0,0,1;
+ color: black;
+}
+
+header{
+    background-color:rgb(105, 105, 105) ;
+    padding: 20px;
+    color: beige;
+}
+ h1{
+    font-size: 30px;
+    margin:0;
+ }
+footer{
+  background-color: beige;
+  padding: 15px;
+  color: black;
+  text-align: center;
+}
+
+
